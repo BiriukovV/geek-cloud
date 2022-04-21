@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="472.0" prefWidth="423.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.MainController">
+   <ListView fx:id="view" layoutX="35.0" layoutY="14.0" prefHeight="399.0" prefWidth="354.0" />
+   <TextField fx:id="input" alignment="CENTER_RIGHT" layoutX="35.0" layoutY="422.0" prefHeight="36.0" prefWidth="354.0" />
+</AnchorPane>
